@@ -1,0 +1,29 @@
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\Binary Dealer.exe
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\Binary Dealer.pdb
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\Binary Dealer.xml
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.AboutBox.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.ASCII_Main.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Binary_Calculator.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Binary_Dealer__Editor_View_.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Choose_Conversion_Mode.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Resources.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.vbproj.GenerateResource.Cache
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.exe
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.xml
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.AboutBox.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.ASCII_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Binary_Calculator.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Binary_Dealer__Editor_View_.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Choose_Conversion_Mode.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Settings.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\Binary Dealer.vbprojResolveAssemblyReference.cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.License_Dialog.resources

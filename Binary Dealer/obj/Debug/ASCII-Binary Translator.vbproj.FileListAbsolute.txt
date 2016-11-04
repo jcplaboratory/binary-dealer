@@ -1,0 +1,18 @@
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.exe
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.xml
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.pdb
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\ASCII-Binary Translator.exe
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\ASCII-Binary Translator.pdb
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\ASCII-Binary Translator.xml
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.ASCII_Main.resources
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Resources.resources
+C:\Users\Cédric\documents\visual studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.vbproj.GenerateResource.Cache
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.exe
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.xml
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.pdb
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\ASCII-Binary Translator.exe
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\ASCII-Binary Translator.pdb
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Debug\ASCII-Binary Translator.xml
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.ASCII_Main.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII_Binary_Translator.Resources.resources
+E:\Backup\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Debug\ASCII-Binary Translator.vbproj.GenerateResource.Cache

@@ -1,0 +1,33 @@
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\bin\Release\Binary Dealer Editor.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\bin\Release\Binary Dealer Editor.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\bin\Release\Binary Dealer Editor.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.Editor_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\obj\Release\Binary Dealer Editor.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\obj\Release\Binary Dealer Editor.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\obj\Release\Binary Dealer Editor.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\Binary Dealer Editor\obj\Release\Binary Dealer Editor.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\bin\Release\Binary Dealer Editor.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\bin\Release\Binary Dealer Editor.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\bin\Release\Binary Dealer Editor.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.AboutBox.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.Editor_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.frmFind.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.License_Dialog.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.pdb
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\bin\Release\Binary Dealer Editor.exe
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\bin\Release\Binary Dealer Editor.pdb
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\bin\Release\Binary Dealer Editor.xml
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.AboutBox.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.Editor_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.frmFind.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.License_Dialog.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary_Dealer_Editor.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.exe
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.xml
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer Editor\obj\Release\Binary Dealer Editor.pdb

@@ -1,0 +1,42 @@
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Release\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Release\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\bin\Release\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.AboutBox.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.ASCII_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.Binary_Calculator.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.Choose_Conversion_Mode.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.License_Dialog.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\ASCII_Binary_Translator.Settings.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\Binary Dealer.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\ASCII-Binary Translator\ASCII-Binary Translator\obj\Release\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\bin\Release\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\bin\Release\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\bin\Release\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.AboutBox.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.ASCII_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Binary_Calculator.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Choose_Conversion_Mode.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.License_Dialog.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Settings.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\bin\Release\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\bin\Release\Binary Dealer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\bin\Release\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.AboutBox.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.ASCII_Main.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Binary_Calculator.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Choose_Conversion_Mode.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.License_Dialog.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\ASCII_Binary_Translator.Settings.resources
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.exe
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.xml
+C:\Users\Cédric\Documents\Visual Studio 2013\Projects\Binary Dealer\Binary Dealer\obj\Release\Binary Dealer.pdb
